@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="ConverterUtil.cs" />
+    <None Include="GlobalState.cs" />
+    <None Include="Line.cs" />
+    <None Include="ParseException.cs" />
+    <None Include="TranslationUnit.cs" />
+    <None Include="VbaJsConverter.cs" />
+  </ItemGroup>
+
+</Project>
